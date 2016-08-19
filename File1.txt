@@ -3,3 +3,5 @@ Initialize File1 text
 More text added
 
 More stashed Amended
+
+More changes to v2.0
