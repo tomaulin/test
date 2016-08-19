@@ -1,1 +1,1 @@
-Initialize File2 text info
+Initialize File2 text info - additional changes to file2
